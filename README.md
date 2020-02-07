@@ -13,7 +13,7 @@ This repository contains the materials for a short course at Nielsen introducing
 
 | **Date** | **Description** |
 | --------- | -------------  |
-| 2.11.20  |  [Introduction to UNIX]() |
+| 2.11.20  |  [Introduction to UNIX](week_1/d1/README.md) |
 | 2.13.20   |   [Introduction to git]() |
 | 2.18.20  |  [Introduction to Python I]() |
 | 2.20.20  | [Introduction to Python II]() |
