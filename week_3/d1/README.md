@@ -1,5 +1,7 @@
 # Pandas and Data Analysis
 
+![](https://pandas.pydata.org/pandas-docs/stable/_static/pandas.svg)
+
 - Understand Series and DataFrame objects
 - Use multiple methods to create DataFrames
 - Select rows and columns of DataFrame
