@@ -11,5 +11,4 @@
 - Understand and use forced coersion of types in Python
 - Use built-in functions in Python and navigate documentation
 - Understand libraries with Python
-- Import the pandas library and create a basic DataFrame
-- Identify different sources for data and methods for creating DataFrames
+- Use integers, strings, tuples, lists, and dictionaries
