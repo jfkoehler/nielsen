@@ -14,9 +14,9 @@ This repository contains the materials for a short course at Nielsen introducing
 | **Date** | **Description** |
 | --------- | -------------  |
 | 2.11.20  |  [Introduction to UNIX](week_1/d1/README.md) |
-| 2.13.20   |   [Introduction to git]() |
-| 2.18.20  |  [Introduction to Python I]() |
-| 2.20.20  | [Introduction to Python II]() |
+| 2.13.20   |   [Introduction to git](week_1/d2/README.md) |
+| 2.18.20  |  [Introduction to Python I](week_2/d1/README.md) |
+| 2.20.20  | [Introduction to Python II](week_2/d2/README.md) |
 | 2.25.20 | [Python and Pandas I]() |
 | 2.27.20 | [Visualizing Data I]() |
 | 3.4.20 | [SQL I]() |
