@@ -4,7 +4,7 @@ This repository contains the materials for a short course at Nielsen introducing
 
 ### Communication 
 
-- **Slack Channel**
+- **Slack Channel**: [nielsentraining.slack.com](https://join.slack.com/t/nielsentraining/shared_invite/enQtOTMxMDg0MjY5ODkxLTgxNTcwY2ZiYTk4NmQ2YTYzOGEzZjYzZTI3NDg1NDRhOGFmZThlZTliNjJhZWQzODM5NDAwZDE1YThmYzMwMDA)
 
 - **Instructor Contact**: 
  - **Email**: koehlerj@newschool.edu
