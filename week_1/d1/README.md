@@ -1,5 +1,7 @@
 # Introduction to UNIX and Shell
 
+![](https://imgs.xkcd.com/comics/command_line_fu.png)
+
 **OBJECTIVES**
 
 - Introduce the terminal and why we care to use it.
