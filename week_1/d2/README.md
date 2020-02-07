@@ -1,5 +1,7 @@
 # Introduction to git and Version Control
 
+![](https://imgs.xkcd.com/comics/git.png)
+
 **OBJECTIVES**
 
 - Understand what version control is and why we want to automate it
